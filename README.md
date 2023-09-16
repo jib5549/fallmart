@@ -12,10 +12,11 @@ A GA DonnaFrances cohort creation.
 
 ___
 ## Table of Contents
-- [Deployed Link]()
+- [Deployed Link](#https://fallmart.greatestcoderalive.me/)
 - [Overview](#overview)
-- [Trello Board](https://trello.com/b/UEHNvPzS/walmart)
-- [Pitch Dec](https://docs.google.com/presentation/d/1zLbUtjdnLn8FDhdMuW9853M0LjZK9JoiMzNT_CNWAtQ/edit#slide=id.p)
+- [Trello Board](#https://trello.com/b/UEHNvPzS/walmart)
+- [Pitch Dec](#https://docs.google.com/presentation/d/1zLbUtjdnLn8FDhdMuW9853M0LjZK9JoiMzNT_CNWAtQ/edit#slide=id.p)
+- [Project Planning Doc](#https://docs.google.com/document/d/1hgBN9EicBrrDl1_ha_jUUNqf2T1wqtRs69fWTLwznjU/edit#heading=h.k1sv9hcat1s)
 - [Features](#features)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
